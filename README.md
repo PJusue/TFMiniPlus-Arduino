@@ -10,3 +10,5 @@ Red cable (VCC)    | 5V port
 Black cable (GND)  | Ground port
 Green cable (RX)   | Port 10
 White cable (TX)   | Port 11
+## Connections scheme
+![alt text](https://github.com/PJusue/TFMiniPlus-Arduino/blob/master/ArduinoScheme.svg)
